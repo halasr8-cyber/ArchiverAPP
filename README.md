@@ -53,7 +53,8 @@ Le projet a été réalisé dans le cadre du module :
 - Espresso (UI Testing)
 - Git & GitHub
 ##  Réalisé par
-Étudiante en NTIC – ISTA- Ahlam Sour/hajar ettabti
+Étudiante en NTIC 
+Ahlam Sour/hajar ettabti
 
-## 👩‍🎓 Réalisé par
-Étudiante en NTIC – ISTA
+
+
